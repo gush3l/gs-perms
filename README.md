@@ -2,7 +2,7 @@
 
 Permissions and groups manager for FiveM storing data in a database!
 
-Still very much a WIP! I don't recommend using it in a production server!
+Still very much a WIP! I don't recommend using it in a production server! *in it's current state you even can't use it lol*
 
 # 
 **LICENSE**
